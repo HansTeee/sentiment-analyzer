@@ -45,7 +45,7 @@ The emotion model's latest author commit (`0e1cd91`) only ships `pytorch_model.b
 Requires Python 3.11+ (tested on 3.13).
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/sentiment-analyzer.git
+git clone https://github.com/HansTeee/sentiment-analyzer.git
 cd sentiment-analyzer
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
