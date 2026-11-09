@@ -2,9 +2,7 @@
 
 Classifies English text as positive or negative and scores it across 7 emotions, and is upfront about where the models get it wrong.
 
-### ▶️ [Try the live demo](https://huggingface.co/spaces/YOUR-HF-USERNAME/sentiment-emotion-analyzer)
-
-<!-- TODO: replace YOUR-HF-USERNAME in the link above once the Space exists -->
+### ▶️ [Try the live demo](https://huggingface.co/spaces/HansTee89411/sentiment-emotion-analyzer)
 
 ![Screenshot of the app analyzing a sentence](docs/screenshot.png)
 
