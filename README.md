@@ -6,8 +6,6 @@ Classifies English text as positive or negative and scores it across 7 emotions,
 
 ![Screenshot of the app analyzing a sentence](docs/screenshot.png)
 
-<!-- TODO: add docs/screenshot.png -->
-
 > Hosted on a free Hugging Face Space. If nobody has used it recently, the first load takes longer while the Space wakes up.
 
 ---
